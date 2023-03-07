@@ -1,0 +1,193 @@
+<svg>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-1">
+    <rect width="0.0001" height="0.0001" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-2">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-3">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect
+      x="0.25"
+      y="0"
+      width="0.25"
+      height="0.25"
+      fill="#D9D9D9"
+    ></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-4">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-5">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-6">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-7">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-8">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-9">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-10">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-11">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+   <clipPath clipPathUnits="objectBoundingBox" id="clip-12">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-13">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-14">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-15">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-16">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-17">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+  <clipPath clipPathUnits="objectBoundingBox" id="clip-18">
+    <rect width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.25" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.5" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.25" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.5" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+    <rect x="0.75" y="0.75" width="0.25" height="0.25" fill="#D9D9D9"></rect>
+  </clipPath>
+</svg>
